@@ -9,7 +9,7 @@
 ## Установка
 
 ```bash
-$ composer require prizman2000/palindrome-counter
+$ composer require vyacheslavlebedev/palindrome-counter
 ```
 
 ## Использование
